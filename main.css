@@ -1,0 +1,228 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 80px;
+}
+.container{
+    max-width: 1000px;
+    width: 100%;
+    
+}
+.s1{
+    padding: 50px 0 0 80px ;
+    display: flex;
+    justify-content: space-between;
+}
+.search{
+    width: 480px;
+    height: 56px;
+   padding: 20px 0 0 80px;
+   margin-bottom: 50px;
+   display: flex;
+   column-gap: 24px;
+   background: white;
+   
+
+}
+.form__image{
+    width: 18px;
+    height: 18px;
+}
+.form__text{
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #848484;
+
+   
+}
+.class {
+    font-family: Nunito Sans;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 33px;
+}
+
+.header__a {
+    column-gap: 11px;
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    color: #111517;
+}
+
+.main {
+    background: #8f8f8ff8;
+}
+
+.germany {
+    width: 264px;
+    background: white;
+    margin: 48px 75px 75px 80px;
+    
+}
+
+.text1 {
+    font-family: Nunito Sans;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px;
+    padding: 24px 163px 16px 24px;
+}
+
+.list__1 {
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    color: #111517;
+    padding: 0 0 8px 24px;
+
+}
+
+.list__11 {
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    padding: 0 0 8px 24px;
+    color: #111517;
+
+}
+
+.g1 {
+    display: flex;
+}
+
+.g2 {
+    display: flex;
+}
+
+.g3 {
+    display: flex;
+}
+
+.population1 {
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    color: #111517;
+}
+
+.region1 {
+    margin: -1px 0 0 0;
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    color: #111517;
+}
+
+.list__111 {
+    padding: 0 0 46px 26px;
+    font-family: Nunito Sans;
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    color: #111517;
+}
+
+.capital1 {
+    margin: -1px 0 0 0;
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+}
+.text2{
+    font-family: Nunito Sans;
+font-size: 18px;
+font-weight: 800;
+line-height: 26px;
+padding: 24px 15px 16px 20px;
+}
+.text3{
+font-family: Nunito Sans;
+font-size: 18px;
+font-weight: 800;
+line-height: 26px;
+padding:24px 190px 16px 24px ;
+}
+.countries__1{
+    display: flex;
+}
+.usa{
+    width: 264px;
+    background: white;
+    margin: 48px 74px 75px 0;
+}
+.brazil{
+    width: 264px;
+    background: white;
+    margin: 48px 74px 75px 0;
+}
+.iceland{
+    width: 264px;
+    background: white;
+    margin: 48px 74px 75px 0;
+}
+.countries__2{
+    
+    display: flex;
+}
+.afgan{
+    width: 264px;
+    background: white;
+    margin: 0 75px 45px 80px ;
+}
+.islands{
+    width: 264px;
+    background: white;
+    margin: 0 75px 45px 0 ;
+}
+.Albania{
+    width: 264px;
+    background: white;
+    margin: 0 75px 45px 0 ;
+}
+.algeria{
+    width: 264px;
+    background: white;
+    margin: 0 80px 45px 0px ;
+}
+.id{
+    width: 200px;
+    height: 56px;
+    background: white;
+    margin: 0 80px 0 0 ; 
+}
+.id__text{
+    font-family: Nunito Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 20px;
+color: #111517;
+padding: 18px 0px 19px 24px;
+}
+.id__image{
+    margin-left: 170px;
+    
+}

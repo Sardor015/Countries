@@ -1,0 +1,160 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 80px;
+}
+.cards{
+    display: flex;
+}
+.header__image{
+    width: 559.7149658203125px;
+    height: 483.16876220703125px;
+    margin:  80px 121px 343px 80px;
+}
+.class {
+    font-family: Nunito Sans;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 33px;
+}
+.header__a {
+    column-gap: 11px;
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    color: #111517;
+}
+.text1 {
+font-family: Nunito Sans;
+font-size: 32px;
+font-weight: 800;
+line-height: 44px;
+padding: 0  0 23px 0;
+}
+
+.list__1 {
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 16px;
+    color: #111517;
+    padding: 0 0 10px 0px;
+
+}
+
+.list__11 {
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 16px;
+    padding: 0 0 10px 0px;
+    color: #111517;
+
+}
+
+.g1 {
+    display: flex;
+}
+
+.g2 {
+    display: flex;
+}
+
+.g3 {
+    display: flex;
+}
+
+.population1 {
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 16px;
+    color: #111517;
+}
+
+.region1 {
+    margin: -1px 0 0 0;
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 16px;
+    color: #111517;
+}
+
+.list__111 {
+    padding: 0 0 46px 0px;
+   font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 16px;
+    color: #111517;
+}
+
+.capital1 {
+    margin: -1px 0 0 0;
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 16px;
+}
+.card{
+    padding: 119px 82px 382px 0;
+}
+.list__10{
+    color: #111517;
+    padding: 0 0 10px 0  ; 
+font-family: Nunito Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 32px;
+}
+.name1{
+    margin:8px 0 0 0;
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 16px;
+  color: #111517;
+}
+.card0{
+   display: flex;
+   
+}
+
+
+.card2{
+    padding-left: -10px;
+}
+.card3{
+    padding: 68px 0px 0 0px  ;
+    margin-left: -10px;
+}
+.c3{
+    padding-left: 15px;
+    width: 96px;
+    height: 28px ;
+    border: solid rgb(236, 230, 230);
+    margin: -2px 10px 0 0;
+}
+.c31{
+    width: 96px;
+    height: 28px ;
+    border: solid rgb(236, 230, 230);
+    margin: -2px 10px 0 0px;
+   text-align: center;
+}
