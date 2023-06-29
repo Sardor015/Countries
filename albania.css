@@ -11,6 +11,19 @@ ul {
 a {
     text-decoration: none;
 }
+body{
+    max-width: 1400px;
+  width: 100%;
+}
+.ul__image{
+    margin: 0 10px -5px 0;
+}
+.c10{
+  padding: 0 0 0 100px;
+}
+.li{
+    padding: 90.57px 0 90.57px 80px  ;
+}
 
 .nav {
     display: flex;
